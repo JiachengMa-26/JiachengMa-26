@@ -3,8 +3,6 @@
 <h1 align="center">🌸🌸🌸Hi 😀, I'm JiachengMa🌸🌸🌸</h1>
 <h3 align="center">I am a computer science student living in the States🔥</h3>
 
-<h4 align="center">![IMG_4800](https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)</h4>
-
 - 🔭 I’m currently working on **Java & JS**
 
 - 🌱 I’m currently learning **Java & JS**
@@ -24,6 +22,8 @@
 - 📄 Know about my experiences [NA](NA)
 
 - ⚡ Fun fact **https://www.youtube.com/channel/UCSmorfFxrYdql-7D0lGRWAg/featured**
+
+![IMG_4800](https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
