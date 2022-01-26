@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java & JS**
 
-- 👯 I’m looking to collaborate on **Java & JS**
+- ♥ My favorite matters **Programming, Video Editing, Drawing, and ALL Games*
 
 - 🤝 I’m looking for help with **Java & JS**
 
