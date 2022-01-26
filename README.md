@@ -1,7 +1,9 @@
 ### HELLO WORLD
 
-<h1 align="center">Hi 😀, I'm JiachengMa</h1>
+<h1 align="center">🌸🌸🌸Hi 😀, I'm JiachengMa🌸🌸🌸</h1>
 <h3 align="center">I am a computer science student living in the States🔥</h3>
+
+<h4 align="center">![IMG_4800](https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)</h4>
 
 - 🔭 I’m currently working on **Java & JS**
 
