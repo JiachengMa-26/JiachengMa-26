@@ -1,6 +1,6 @@
 ### HELLO WORLD
 
-<h1 align="center">🌸🌸🌸Hi 😀, I'm JiachengMa🌸🌸🌸</h1>
+<h1 align="center">Hi 😀, I'm JiachengMa</h1>
 <h3 align="center">I am a computer science student living in the States🔥</h3>
 
 - 🔭 I’m currently working on **Java & JS**
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [NA](NA)
 
-- 📝 I regularly write articles on [NA](NA)
+- 📝 You can also call me **#26**
 
 - 💬 Ask me about **ANYTHING!(As long as I know)**
 
