@@ -1,7 +1,11 @@
-### HELLO WORLD
+### HELLO WORLD;
 
-<h1 align="center">Hi 😀, I'm JiachengMa</h1>
-<h3 align="center">I am a computer science student living in the States🔥</h3>
+<h1 align="center">🐴JiachengMa</h1>
+<h3 align="center">📍States</h3>
+<h3 align="center">🎓Stony Brook University 2024</h3>
+<h3 align="center">🧠Computer Science</h3>
+
+
 
 
 
