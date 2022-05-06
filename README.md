@@ -7,6 +7,7 @@
 <h3 align="center">📧**jiacheng.ma@stonybrook.edu**</h3>
 
 <h2 align="left">Languages</h2>
+
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 - ⚡ Fun fact **https://www.youtube.com/channel/UCSmorfFxrYdql-7D0lGRWAg/featured**
@@ -16,6 +17,7 @@
 ![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&langs_count=8&theme=dracula)](https://github.com/JiachengMa-26?tab=repositories)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web)
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
