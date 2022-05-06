@@ -7,7 +7,7 @@
 <h3 align="center">📧jiacheng.ma@stonybrook.edu</h3>
 
 
-<h1 align="left">Languages & Tools💡</h1>
+<h2 align="left">Languages & Tools💡</h2>
 
 ### Languages
 
