@@ -7,7 +7,7 @@
 <h3 align="center">📧**jiacheng.ma@stonybrook.edu**</h3>
 
 <h2 align="left">Languages</h2>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<p align="left">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 - ⚡ Fun fact **https://www.youtube.com/channel/UCSmorfFxrYdql-7D0lGRWAg/featured**
 
