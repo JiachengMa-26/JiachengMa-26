@@ -28,8 +28,8 @@
 ![IMG_4800](https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)
 
 ![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&langs_count=8)](https://github.com/JiachengMa-26?tab=repositories)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web)](https://github.com/JiachengMa-26/MJC-Personal-Web)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&langs_count=8&theme=dracula)](https://github.com/JiachengMa-26?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
