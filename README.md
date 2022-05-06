@@ -5,7 +5,7 @@
 
 
 ![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26_count=8)](https://github.com/JiachengMa-26?tab=repositories)
 - 🔭 I’m currently working on **Java & JS**
 
 - 🌱 I’m currently learning **Java & JS**
