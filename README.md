@@ -34,13 +34,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=CSE-Lesson-Java&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web)
 
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/channel/UCSmorfFxrYdql-7D0lGRWAg/featured/https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-
-
-
-- ⚡ Fun fact **https://www.youtube.com/channel/UCSmorfFxrYdql-7D0lGRWAg/featured**
-
-![IMG_4800](https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)
 
 
 
