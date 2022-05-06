@@ -33,17 +33,6 @@
 #### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=CSE-Lesson-Java&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web)
 
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/channel/UCSmorfFxrYdql-7D0lGRWAg/featured/https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
