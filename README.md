@@ -13,8 +13,12 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&langs_count=8&theme=dracula)](https://github.com/JiachengMa-26?tab=repositories)
+
 ### IDEs
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)   	![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)   	![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)   ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -26,8 +30,8 @@
 
 ![IMG_4800](https://user-images.githubusercontent.com/77813202/151097147-8ff1c7af-7165-49e8-bfba-d76049f5a23b.gif)
 
-![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&langs_count=8&theme=dracula)](https://github.com/JiachengMa-26?tab=repositories)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web&theme=dracula)](https://github.com/JiachengMa-26/MJC-Personal-Web)
 
 <h3 align="left">Connect with me:</h3>
