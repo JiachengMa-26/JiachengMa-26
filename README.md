@@ -29,6 +29,7 @@
 
 ![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&langs_count=8)](https://github.com/JiachengMa-26?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiachengMa-26&repo=MJC-Personal-Web)](https://github.com/JiachengMa-26/MJC-Personal-Web)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
