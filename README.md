@@ -36,7 +36,9 @@
 <h2 align="left">Cite🙌</h2>
 
 [Github Stats Page](https://github.com/anuraghazra/github-readme-stats)
+
 [All Icons](https://github.com/Ileriayo/markdown-badges)
-[Markdown Cheatsheet](https://github.com/Ileriayo/markdown-badges)
+
+[Markdown Cheatsheet](https://www.markdownguide.org/basic-syntax/)
 
 
