@@ -3,9 +3,9 @@
 <h1 align="center">Hi 😀, I'm JiachengMa</h1>
 <h3 align="center">I am a computer science student living in the States🔥</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&layout=compact)](https://github.com/JiachengMa-26)
-![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
 
+![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachengMa-26&layout=compact)](https://github.com/JiachengMa-26)
 - 🔭 I’m currently working on **Java & JS**
 
 - 🌱 I’m currently learning **Java & JS**
