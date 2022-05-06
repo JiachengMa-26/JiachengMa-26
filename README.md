@@ -4,8 +4,6 @@
 <h3 align="center">I am a computer science student living in the States🔥</h3>
 
 [![MJC-26's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26)](https://github.com/JiachengMa-26)
-![MJC-26's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiachengMa-26_icons=true)
-![MJC-26's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 - 🔭 I’m currently working on **Java & JS**
