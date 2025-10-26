@@ -2,9 +2,10 @@
 
 <h1 align="center">🐴JiachengMa</h1>
 <h3 align="center">📍States</h3>
+<h3 align="center">🦁Columbia University 2025</h3>
 <h3 align="center">🎓Stony Brook University 2024</h3>
-<h3 align="center">🧠Computer Science</h3>
-<h3 align="center">📧jiacheng.ma@stonybrook.edu</h3>
+<h3 align="center">🧠Technology Management</h3>
+<h3 align="center">📧jm6080@columbia.edu</h3>
 
 
 <h2 align="left">Languages & Tools💡</h2>
